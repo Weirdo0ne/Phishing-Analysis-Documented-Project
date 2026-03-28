@@ -104,12 +104,6 @@ Phishing-Analysis-Project/
 
 ---
 
-## 🌐 Connect With Me
-
-🔗 LinkedIn: [Your LinkedIn Link]  
-💻 GitHub: [Your GitHub Link]
-
----
 
 ## 🚀 Final Note
 
