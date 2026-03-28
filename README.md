@@ -1,5 +1,5 @@
 # Phishing Analysis Project
-
+https://www.hkcert.org/f/page/910677/912938/banner-3.jpg
 ## Overview
 This project presents a structured approach to phishing analysis, covering concepts from fundamental understanding to advanced real-world investigations. It demonstrates how phishing threats are analyzed, validated, and mitigated using standard SOC methodologies and industry-relevant tools.
 
