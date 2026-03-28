@@ -1,6 +1,8 @@
 # Phishing Analysis Project
 <p align="center">
-  <img src="assets/images/[phishing-poster.png](https://www.hkcert.org/f/page/910677/912938/banner-3.jpg)" alt="Phishing Analysis Project" width="1000"/>
+  <p align="center">
+  <img src="https://www.hkcert.org/f/page/910677/912938/banner-3.jpg" alt="Phishing Analysis Project" width="1000"/>
+</p>
 </p>
 
 ## Overview
